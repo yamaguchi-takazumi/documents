@@ -1,8 +1,8 @@
 # プロフィール
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yamaguchi-takazumi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yamaguchi-takazumi&show_icons=true)](https://github.com/yamaguchi-takazumi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamaguchi-takazumi&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamaguchi-takazumi&show_icons=true)](https://github.com/yamaguchi-takazumi)
 
 ## 経歴
 
@@ -33,6 +33,6 @@
 
 ### リポジトリ
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamaguchi-takazumi&repo=simkitpy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamaguchi-takazumi&repo=simkitpy&show_icons=true)](https://github.com/yamaguchi-takazumi/simkitpy)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamaguchi-takazumi&repo=documents&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamaguchi-takazumi&repo=documents&show_icons=true)](https://yamaguchi-takazumi.github.io/documents/)
