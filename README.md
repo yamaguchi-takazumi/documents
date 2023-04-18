@@ -1,4 +1,4 @@
-# プロフィール
+# documents
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yamaguchi-takazumi&show_icons=true)](https://github.com/yamaguchi-takazumi)
 
