@@ -31,7 +31,7 @@
 - メッシュレス法
 - 数値電磁場解析
 
-### リポジトリ
+## リポジトリ
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yamaguchi-takazumi&repo=simkitpy&show_icons=true)](https://github.com/yamaguchi-takazumi/simkitpy)
 
